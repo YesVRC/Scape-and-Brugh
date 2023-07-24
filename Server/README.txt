@@ -1,0 +1,2 @@
+Hi there, thanks for checking out the pack. Couple quick things:
+BIG ONE HERE, if in the 'run.bat' file I specify java8 instead of java, that is something I do on my own machines and it might need changing to work for you.

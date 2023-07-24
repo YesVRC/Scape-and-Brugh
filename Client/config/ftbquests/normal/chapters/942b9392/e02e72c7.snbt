@@ -1,0 +1,18 @@
+{
+	x: -5.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "c74bde1b",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration"
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "eb9af894",
+		type: "item",
+		item: "immersiveengineering:material 1 6",
+		count: 8
+	}]
+}

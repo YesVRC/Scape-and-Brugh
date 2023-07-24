@@ -1,0 +1,22 @@
+{
+    "machine": "research_lab_basic",
+    "registryName": "research_lab_primative_parasite_biomass",
+    "recipeTime": 100,
+    "requirements": [
+        {
+            "type": "modularmachinery:energy",
+            "io-type": "input",
+            "energyPerTick": 20
+        },
+        {
+            "type": "item",
+            "io-type": "input",
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "type": "item",
+            "io-type": "output",
+            "item": "contenttweaker:material_part@0"
+        }
+    ]
+}

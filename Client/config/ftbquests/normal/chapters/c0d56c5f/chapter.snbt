@@ -1,0 +1,7 @@
+{
+	title: "Phase 2: Mekanism",
+	icon: "mekanism:ingot 1 1",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,16 @@
+**/DregoraOP
+journeymap
+eula.txt
+crafttweaker.log
+logs
+**/crash-reports
+**/mods
+**/cache
+cache
+usernamecache.json
+usercache.json
+whitelist.json
+*.lz4
+*.log
+*.gz
+*.log.gz

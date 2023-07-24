@@ -1,0 +1,5 @@
+{
+    "zenscript.supportMinecraftFolderMode": true,
+    "zenscript.modIdItemCompletion": true,
+    "zenscript.trace.server": "verbose"
+}

@@ -1,0 +1,68 @@
+[PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Genryu
+Phillip Swearingain
+AdaraChristine
+Quaternary
+Peregrinus11
+Ncc1702
+NickT
+Ivy_
+Spencer Gilbert
+Hooley
+Jessie Sims
+Fbigummy
+WaterMoon
+DreamThorn
+Zuniroa
+NerdyWhiteGuy
+Luvely
+Pongo Sapiens
+Belathus
+BrÃƒÂ¸nsted
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: items.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipies.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: research.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: stages.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 1ms
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: items.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipies.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: research.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: stages.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 0ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: items.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: recipies.zs}
+[INITIALIZATION][SERVER][INFO] Removing Crusher Recipe for input: Osmium Ore
+[INITIALIZATION][SERVER][INFO] Trying to remove Crafting Table recipes for kind: gear
+[INITIALIZATION][SERVER][INFO] Trying to remove Furnace recipes for kind: osmium
+[INITIALIZATION][SERVER][INFO] Trying to remove Crafting Table recipes for kind: oreOsmium
+[INITIALIZATION][SERVER][INFO] Trying to remove Crafting Table recipes for kind: dust
+[INITIALIZATION][SERVER][INFO] Removing ArcFurnace Recipe for Osmium Ingot
+[INITIALIZATION][SERVER][INFO] Adding ArcFurnace Recipe for Osmium Ingot
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: research.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: stages.zs}
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 273ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing Shapeless recipes for <mekanism:ingot:1>
+[POSTINITIALIZATION][SERVER][INFO] Removing 3 Shapeless recipes.
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <draconicevolution:draconic_core>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Draconic Core with name ct_shaped307388024
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <mekanism:ingot:1>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <mekanism:ingot:1>
+[POSTINITIALIZATION][SERVER][INFO] Applying MrCrayfish's Furniture Mod changes...
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:865> and <mekanism:oreblock>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <thermalfoundation:material:866> and <mekanism:oreblock>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <minecraft:sand:*> and <mekanism:oreblock>
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <mekanism:oreblock>
+[AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <mekanism:oreblock>
+[AVAILABLE][SERVER][INFO] Altering InductionSmelter Recipe(s) for <mekanism:ingot:1> * 2

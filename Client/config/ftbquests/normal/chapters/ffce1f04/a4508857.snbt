@@ -1,0 +1,21 @@
+{
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "568b4041",
+		type: "checkmark",
+		title: "Useful Items",
+		icon: "akashictome:tome"
+	}],
+	rewards: [{
+		uid: "6850ec28",
+		type: "item",
+		item: "akashictome:tome"
+	},
+	{
+		uid: "8bb60076",
+		type: "item",
+		item: "minecraft:apple",
+		count: 32
+	}]
+}
