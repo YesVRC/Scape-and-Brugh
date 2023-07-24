@@ -14,3 +14,5 @@ whitelist.json
 *.log
 *.gz
 *.log.gz
+Server_0.1.3a.zip
+*.txt
